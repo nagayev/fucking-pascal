@@ -1,0 +1,26 @@
+[
+    {
+        "header":"<> operator",
+        "content":"Fucked Pascal doesn't support !="
+    },
+    {
+        "header":"Ugly IO",
+        "content":"writeln and readln are ugly, because they are operators"
+    },
+    {
+        "header":":= operator",
+        "content":"Not normal =, but :=!"
+    },
+    {
+        "header":"Arrays",
+        "content":"From one, not from zero"
+    },
+    {
+    "header":"Procedures",
+    "content":"Not only functions"
+    },
+    {
+        "header":"begin...end",
+        "content":"neither pythonic : nor C style {}"
+    }
+]
